@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		Faaris Sanjar Musfaq, this is your <br />Twitter account
 	</h1>
 
 	<h2>
